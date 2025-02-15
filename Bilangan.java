@@ -10,7 +10,7 @@ public class Bilangan {
     System.out.print("Masukkan bilangan pecahan negatif kedua:");
     float bilanganKedua= myObj.nextFloat();
 
-    System.out.print("Masukkan bilangan pecahan negatif pertama:");
+    System.out.print("Masukkan bilangan pecahan negatif ketiga:");
     float bilanganKetiga = myObj.nextFloat();
 
     System.out.println("Hasil penjumlahan: " + (bilanganPertama + bilanganKedua + bilanganKetiga));
